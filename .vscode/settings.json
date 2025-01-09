@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"binary_trees.h": "c",
+		"stddef.h": "c"
+	}
+}
